@@ -6,3 +6,9 @@ A simplification of the project involved receiving a preset size of stock (in th
 
 For example, we are given inputs of 12 ft of stock wood, and we are told we need to output 5 pieces of 6 ft wood, 3 pieces of 5 ft wood, and 4 pieces of 3ft wood.
 We need to now find out how many pieces of 12 ft wood we need to produce the desired wood, how to best cut the stock wood to produce the desired wood with minimum loss, theoretical minimum loss, and loss produced by our cutting strategy.
+
+Files:
+The woodc_deploy file contains app.py which is the streamlit version of the algoithm to deploy it on huggingface. It also consists of requirements.txt for the libraries that need to be imported to run the code.
+
+Deployed webpage link:
+https://huggingface.co/spaces/rthvik07/woodc_deploy
